@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: red;
+}
+.padre{
+    width: 500px;
+    height: 500px;
+    background-color: green;
+}
+.hijo{
+    background-color:  green;
+}
